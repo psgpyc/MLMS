@@ -7,11 +7,17 @@ The aim is to deepen the understanding of fundamental concepts while providing p
 ## Repository Structure  
 
 📦 MLMS
+
 ┣ 📂dataset
+
 ┃ ┗ 📄  - Contains data used for training and testing models.
+
 ┣ 📂models
+
 ┃ ┗ 📄 linear_regression_one_variable.ipynb - Implementation of linear regression for a single variable.
+
 ┣ 📄 requirements.txt - File containing the required Python dependencies.
+
 ┗ 📄 README.md - Documentation for the repository.
 
 ### Folders  
